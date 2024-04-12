@@ -1,6 +1,6 @@
 public class advance {
     public static void main(String[] args) {
-        newDemo newObj = new newDemo();
+       /*  newDemo newObj = new newDemo();
         System.out.println(newObj.value);
         System.out.println(newObj.words);
 
@@ -9,5 +9,9 @@ public class advance {
 
         System.out.println(newObj.value);
         System.out.println(newObj.words);
+        */
+
+        addition add = new addition();
+        add.display();
     }
 }
