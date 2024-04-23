@@ -54,6 +54,7 @@
             break;
             case "%" :
             System.out.println(a % b);
+            break;
         
        // int y = a + b;
        // System.out.println("the answer is: "+ y );
